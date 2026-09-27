@@ -1,0 +1,17 @@
+# Segredos — nunca suba sua API key
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# SO / editores
+.DS_Store
+.vscode/
+.idea/
